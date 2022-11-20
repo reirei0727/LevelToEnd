@@ -1,0 +1,4 @@
+name: PLevelToEnd
+version: '${project.version}'
+main: pleveltoend.pleveltoend.main
+api-version: 1.19
